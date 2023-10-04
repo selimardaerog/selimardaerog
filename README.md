@@ -2,6 +2,8 @@
 <h3 align="center">I am a student at Science High School</h3>
 
 - 🌱 I’m currently learning **Data Managment With Python**
+- 🌱 I’m **iOS Developer**
+
 
 - 📫 How to reach me **selimardaeroglu@gmail.com**
 
